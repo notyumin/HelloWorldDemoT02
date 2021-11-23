@@ -1,4 +1,4 @@
-name; CI for Remote HelloWorld
+name: CI for Remote HelloWorld
 
 on:
   push:
